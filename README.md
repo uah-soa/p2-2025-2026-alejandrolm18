@@ -1,4 +1,4 @@
-# Practice 2: Virtual memory and replacement algorithms
+ # Practice 2: Virtual memory and replacement algorithms
 UAH, Departamento de Automática, ATC-SOL 
 Unit 2
 
